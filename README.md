@@ -2,7 +2,7 @@
 
 My name is Janusz, but I go by nickname _Ivellios_.
 
-- 🔭 I’m currently working on [DevOps Days Warsaw 2023](https://devopsdays.org/events/2023-warsaw/)
+- 🔭 I’m currently working on [DevOps Days Warsaw 2023](https://devopsdays.org/events/2023-warsaw/) - I host the conference Open Spaces and Ignite talks
 - 🌱 I’m currently learning [Scala](https://www.scala-lang.org/) and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
 - 💪 My areas of interest: web, architecture, security, infrastructure, and supporting people
 - 💻 My stack: _Python, Django, Pytest, AWS, Docker, Ansible, Terraform, Terragrunt, Github Actions, Bash, JS and more!_
