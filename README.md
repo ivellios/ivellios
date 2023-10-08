@@ -8,7 +8,7 @@ My name is Janusz, but I go by nickname _Ivellios_.
 - 💻 My stack: _Python, Django, Pytest, AWS, Docker, Ansible, Terraform, Terragrunt, Github Actions, Bash, JS and more!_
 - 🎤 I give a talk on technology once in a while (the last at [PyConPL 2023](https://pl.pycon.org/2023/agenda/))
 - 🤔 Always happy to accept contribution for [D&D Organized Play Krakow service](https://github.com/dnd-al-krk/)
-- 🤸 I train [Acroyoga in Kraków](https://www.facebook.com/groups/239468339510760)
+- 🤸 I train [Acro Yoga in Kraków](https://www.facebook.com/groups/239468339510760)
 - 💬 Ask me about **Role-Playing Games** (You risk me never to shut up 😁)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakamienski/), [Discord](https://discordapp.com/users/305767281470734337), or [Twitter](https://x.com/jkamienski) 
 
