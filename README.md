@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-My name is Janusz, but I go by nickname _Ivellios_.
+My name is Janusz [ IPA: /ˈjã.nuʃ/ ], but I go by nickname _Ivellios_ [ IPA: /'ivɛljɔs/ ].
 
 - 📆 Currently working on [DevOps Days Warsaw 2023](https://devopsdays.org/events/2023-warsaw/) - I host the conference Open Spaces and Ignite talks
 - 🌱 Currently learning [Scala](https://www.scala-lang.org/) and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
