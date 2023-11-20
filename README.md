@@ -13,7 +13,7 @@ _Seniority is not about knowledge, but wisdom!_ -- My brain at some point of car
 - 💻 **My main stack:** _Python, Django, Pytest, AWS, Docker, Ansible, Terraform, Terragrunt, GitHub Actions, Bash, JS, and more!_
 
 ## Currently on
-- 🌱 Recently, I have founded and am focusing now on [Wyślij.co](https://github.com/wyslijco/wyslijco.github.io/) project which will support Charity Organizations in Poland. 
+- 🌱 Recently, I have founded and am focusing on [Wyślij.co](https://github.com/wyslijco/wyslijco.github.io/) project which will support Charity Organizations in Poland. 
 - 📫 Currently learning [Scala](https://www.scala-lang.org/) and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
 - 🤔 Always happy to accept contribution for [D&D Organized Play Krakow service](https://github.com/dnd-al-krk/)
 
