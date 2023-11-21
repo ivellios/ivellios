@@ -13,7 +13,7 @@ _Seniority is not about knowledge, but wisdom!_ -- My brain at some point of car
 - 💻 **My main stack:** _Python, Django, Pytest, AWS, Docker, Ansible, Terraform, Terragrunt, GitHub Actions, Bash, JS, and more!_
 
 ## Currently I am
-- 🌱 Seeding my new project: [Wyślij.co](https://github.com/wyslijco/wyslijco.github.io/) which will support Charity Organizations in Poland. 
+- 🌱 Seeding my new project: [Wyślij.co](https://github.com/wyslijco/) which will support Charity Organizations in Poland. 
 - 📫 Learning [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [Scala](https://www.scala-lang.org/) 
 - 🤔 accepting contributions for [D&D Organized Play Krakow service](https://github.com/dnd-al-krk/)
 - 🐍 enjoying my two new python libraries for Django and Celery: [django-unified-signals](https://pypi.org/project/django-unified-signals/) and [celery-signal-receivers](https://pypi.org/project/celery-signal-receivers/)
