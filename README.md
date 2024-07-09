@@ -15,7 +15,7 @@ _Seniority is not about knowledge, but wisdom!_ -- My brain at some point of car
 ## Currently I am
 - 🔎 Looking for speakers for the next [DevOps Days in Warsaw](https://devopsdays.org/warsaw/) - submit your talk please 😉
 - 🌱 Seeding my new project: [Wyślij.co](https://github.com/wyslijco/) which will support Charity Organizations in Poland. 
-- 📫 Learning [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [Scala](https://www.scala-lang.org/) 
+- 📫 Learning [OSINT]([https://en.wikipedia.org/wiki/Domain-driven_design](https://en.wikipedia.org/wiki/Open-source_intelligence))
 - 🤔 accepting contributions for [D&D Organized Play Krakow service](https://github.com/dnd-al-krk/)
 - 🐍 enjoying my two new python libraries for Django and Celery: [django-unified-signals](https://pypi.org/project/django-unified-signals/) and [celery-signal-receivers](https://pypi.org/project/celery-signal-receivers/)
 
