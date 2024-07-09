@@ -13,7 +13,7 @@ _Seniority is not about knowledge, but wisdom!_ -- My brain at some point of car
 - 💻 **My main stack:** _Python, Django, Pytest, AWS, Docker, Ansible, Terraform, Terragrunt, GitHub Actions, Bash, JS, and more!_
 
 ## Currently I am
-- 🔎 Searching for speakers at the next [DevOps Days in Warsaw](https://devopsdays.org/warsaw/) - submit your talk please 😉
+- 🔎 Looking for speakers for the next [DevOps Days in Warsaw](https://devopsdays.org/warsaw/) - submit your talk please 😉
 - 🌱 Seeding my new project: [Wyślij.co](https://github.com/wyslijco/) which will support Charity Organizations in Poland. 
 - 📫 Learning [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [Scala](https://www.scala-lang.org/) 
 - 🤔 accepting contributions for [D&D Organized Play Krakow service](https://github.com/dnd-al-krk/)
