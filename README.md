@@ -1,6 +1,6 @@
 # Howdy 👋
 
-My name is Janusz [ IPA: /ˈjã.nuʃ/ ], but I go by the nickname _Ivellios_ [ IPA: /'ivɛljɔs/ ].
+My name is Janusz [ IPA: /ˈjanʊʂ/ ], but I go by the nickname _Ivellios_ [ IPA: /ˈivɛliɔs/ ].
 
 _ἔοικα γοῦν τούτου γε σμικρῷ τινι αὐτῷ τούτῳ σοφώτερος εἶναι, ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι_ -- Plato, Apology 21d.
 
